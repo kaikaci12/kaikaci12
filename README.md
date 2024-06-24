@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JS, CSS, HTML.<br>🎯 Goals: Learn React, backend, become full-stacker.<br>🎲 Fun fact:  Bugs came from real bug which was in the computer causing error.</p>
+<p align="left">📚 I'm currently learning NextJS<br>🎯 Goals: Learn Nextjs, backend, become full-stacker.<br>🎲 Fun fact:  Bugs came from real bug which was in the computer causing error.</p>
 
 ###
 
