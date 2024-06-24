@@ -32,6 +32,7 @@
   <img src="https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img src="https://avatars.githubusercontent.com/u/30317862?s=280&v=4"/>
 </div>
 
 ###
